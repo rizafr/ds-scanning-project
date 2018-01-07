@@ -28,3 +28,14 @@ Author
 Riza Fauzi Rahman
 <riza.fauzi.rahman@gmail.com>
 ```
+
+
+Database Configuration
+---------------
+
+```
+servername = "localhost"
+username = "root"
+password = ""
+dbname = "dsdir"
+```
